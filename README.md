@@ -17,6 +17,10 @@ Features:
 ![image](https://user-images.githubusercontent.com/20295767/148153570-55d38d16-10ed-437a-a845-7ebdc4b2e529.png)
 
 # Google Image classifier test, CAT,BIRD, DOG
+
+Images were randomly grabbed off google so have a little humour with the covid masks on the animals! hahaha :)
+Either way, the CNN model was able to detect and distinguish them with minimal error!
+
 ![image](https://user-images.githubusercontent.com/20295767/148153599-ab94d040-a294-4ed0-8bfa-96b3a26230d0.png)
 ![image](https://user-images.githubusercontent.com/20295767/148153610-19a9b3c5-6036-43ae-a406-ee77ffce39c8.png)
 ![image](https://user-images.githubusercontent.com/20295767/148153625-4d0e9eb4-c4ac-4b39-ba4f-eec33d439c73.png)
